@@ -6,3 +6,7 @@ Install
 ---------
 1. Clone the repository
 2. Open the html document in a web-browser
+
+Screencap
+-------
+![Screencap](/images/screencap.tiff)
