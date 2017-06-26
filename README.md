@@ -9,4 +9,4 @@ Install
 
 Screencap
 -------
-![Screencap](/images/screencap.tiff)
+![Screencap](/images/screencap.png)
